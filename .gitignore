@@ -24,6 +24,7 @@ userData/
 
 # Local reports and documentation
 *.md
+!README.md
 docs/
 .idea/
 .vscode/
