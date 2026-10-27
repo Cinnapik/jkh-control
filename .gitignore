@@ -1,0 +1,29 @@
+node_modules
+dist
+dist-electron
+release
+*.log
+.DS_Store
+
+tests/.electron-profile/
+tests/screenshots/
+
+# Local data and backups
+*.sqlite*
+*.db
+*.db-*
+*.bak
+*.backup
+backups/
+data/
+userData/
+.env
+.env.*
+*.pem
+*.key
+
+# Local reports and documentation
+*.md
+docs/
+.idea/
+.vscode/
